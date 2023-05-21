@@ -1,0 +1,174 @@
+
+
+h1{
+font-size:50px;
+color:#FB8DA0;
+text-align:center;
+border-style: solid;
+border-width: thick;
+}
+
+p{
+font-size:30px;
+color: white; 
+text-align: left;
+margin:35px;
+
+}
+
+li{
+font-size:28px;
+color: white;
+}
+
+h2{
+font-size:70px;
+color:orange;
+text-align: center;
+}
+
+.jisootitle{
+font-size:80px;
+color:#970C10;
+text-align: center;
+}
+
+.jisoopage{
+background-color:#DC4731;
+}
+body{
+background-color: black;
+}
+
+h6{
+color: white;
+}
+
+.rose{
+display: grid;
+grid-template-columns: 1fr 1fr ;
+column-gap: 5px; 
+}
+.twitter-tweet{
+margin:5px;
+}
+
+
+img {
+right-margin:35px;
+  float:right;
+
+}
+h3{
+font-size:35px;
+color:pink;
+margin:35px;
+color:orange;
+}
+
+.lisa{
+background-color:wheat;
+}
+.jennietitle{
+color:#6A4973;
+}
+
+.jenniepage{
+background-color:#887BB0;
+}
+.rosepage{
+background-color:#FFD8F1;
+}
+
+.rosetitle{
+color:#D592DF;
+}
+
+.abouttitle{
+color:pink;
+}
+
+.top-img{
+width:300px;
+margin:15px;
+border-radius:15px;
+float:left;
+}
+a{
+color:pink;
+}
+
+.music{
+width:340px;
+margin:25px;
+}
+.muisch2{
+color:white;
+font-size:35px;]
+
+}
+#boxes{
+background-clip: border-box;
+background:pink;
+width:400px;
+padding:15px;
+margin-left:120px;
+margin-bottom: 30px;
+
+
+}
+
+
+.bubutton{
+ background-color: white; 
+  color: pink; 
+  border: 2px solid white;
+  font-size:25px;
+ margin-left:150px;
+}
+
+.merch{
+background-color:white;
+}
+
+.albums{
+width:270px;
+float:left;
+margin-right:25px;
+margin-left:20px;
+margin-bottom: 50px;
+
+
+}
+
+h5{
+text-align:right;
+}
+
+#card {
+box-shadow: 15px 15px 10px #F2C5E0;
+  max-width: 300px;
+  margin: 15px;
+  font-family:Serif ;
+  font-size:20px;
+  text-align:center;
+
+}
+
+.member{
+font-size:35px;
+color:white;
+float:right; 
+margin-right: 30px;
+}
+
+.ptag{
+color:grey;
+font-size:18px;
+}
+
+.hi{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 5px; 
+}
